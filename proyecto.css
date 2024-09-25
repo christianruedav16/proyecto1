@@ -14,3 +14,8 @@ h3{
   background-color: rgb(132, 0, 255);
 }
 
+.classic{
+  background-color: pink;
+}
+
+*{color: black;}
